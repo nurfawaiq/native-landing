@@ -1,4 +1,4 @@
-# nurfawaiq.github.io
+# Landing Page
 Sample coding landing page by Mohammad Nur Fawaiq (2015)
 
 
